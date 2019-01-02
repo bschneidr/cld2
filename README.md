@@ -61,7 +61,7 @@ detect_language_multi(url('http://www.un.org/fr/universal-declaration-human-righ
 # $bytes
 # [1] 17008
 # 
-# $reliabale
+# $reliable
 # [1] TRUE
 ```
 This shows the top 3 language guesses and the proportion of text that was classified as this language.
